@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/helloTableData/static/css/main.e6c13ad2.css",
+    "main.js": "/helloTableData/static/js/main.47ca17a6.js",
+    "static/js/453.9f817951.chunk.js": "/helloTableData/static/js/453.9f817951.chunk.js",
+    "index.html": "/helloTableData/index.html",
+    "main.e6c13ad2.css.map": "/helloTableData/static/css/main.e6c13ad2.css.map",
+    "main.47ca17a6.js.map": "/helloTableData/static/js/main.47ca17a6.js.map",
+    "453.9f817951.chunk.js.map": "/helloTableData/static/js/453.9f817951.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.47ca17a6.js"
+  ]
+}
